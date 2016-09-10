@@ -1,0 +1,5 @@
+{
+    "show_css_completions": false,
+    "disable_tab_abbreviations_for_scopes": "source.css",
+    "disabled_keymap_actions": "increment_number_by_1, decrement_number_by_1"
+}

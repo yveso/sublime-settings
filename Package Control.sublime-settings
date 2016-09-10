@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CSS3",
+		"Emmet",
+		"GitGutter",
+		"HexViewer",
+		"InQlik-Tools",
+		"JavaScriptNext - ES6 Syntax",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Material Theme",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"SublimeLinter-jshint",
+		"Theme - Cobalt2"
+	]
+}
