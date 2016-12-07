@@ -27,11 +27,13 @@
 	"line_padding_top": 1,
 	"material_theme_accent_bright-teal": true,
 	"material_theme_accent_scrollbars": true,
-	"material_theme_big_fileicons": true,
 	"material_theme_compact_sidebar": true,
 	"material_theme_contrast_mode": true,
 	"material_theme_panel_separator": true,
 	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_tabs_separator": true,
 	"rulers":
 	[
 		72,
