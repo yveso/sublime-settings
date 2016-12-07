@@ -10,18 +10,20 @@
 		"Color Highlighter",
 		"CSS3",
 		"Emmet",
+		"FileDiffs",
 		"GitGutter",
 		"HexViewer",
 		"HTML-CSS-JS Prettify",
 		"InQlik-Tools",
 		"JavaScriptNext - ES6 Syntax",
+		"Jinja2",
 		"Markdown Preview",
-		"MarkdownEditing",
 		"Material Theme",
 		"Package Control",
 		"SublimeLinter",
 		"SublimeLinter-flake8",
 		"SublimeLinter-jshint",
-		"Theme - Cobalt2"
+		"Theme - Cobalt2",
+		"zz File Icons"
 	]
 }
