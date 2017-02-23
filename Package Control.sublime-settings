@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AutoFileName",
 		"BracketHighlighter",
 		"Color Highlighter",
@@ -23,7 +24,6 @@
 		"SublimeLinter",
 		"SublimeLinter-flake8",
 		"SublimeLinter-jshint",
-		"Theme - Cobalt2",
-		"zz File Icons"
+		"Theme - Cobalt2"
 	]
 }
